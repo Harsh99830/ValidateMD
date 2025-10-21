@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Optional: your globals can live alongside Tailwind */
+:root {
+color-scheme: light dark;
+}
+
+body {
+margin: 0;
+}
