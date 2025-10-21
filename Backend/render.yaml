@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: sted-backend
+    env: python
+    branch: main
+    rootDir: backend
+    buildCommand: |
+      pip install --upgrade pip setuptools wheel
+      pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    pythonVersion: 3.12.5
