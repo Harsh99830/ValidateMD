@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pandas
+rapidfuzz
+python-dotenv
+webdriver-manager      # only if you plan to use Selenium fallback
+selenium               # optional

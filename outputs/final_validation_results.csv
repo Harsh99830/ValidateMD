@@ -1,0 +1,2 @@
+npi,name,address,phone,specialty,method_confidences,combined_field_confidences,overall_confidence
+1003000480,Kevin Rothchild,"12605 E 16th Ave, Aurora, CO, 800452545",(303) 724-2728,Hernia repair - groin (open),"{'npi_registry': 68.52, 'web_scrape': 63.24, 'google_maps': 21.29}","{'npi': 75.0, 'name': 39.0, 'address': 61.04, 'phone': 57.0, 'specialty': 21.21}",55.13
